@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC2981
+D High-Voltage High-Current Source Driver Array
+K driver CMOS PMOS TTL 
+$ENDCMP
+#
+$CMP Rotary_Encoder
+D Rotary encoder, dual channel, incremental quadrate outputs, with switch
+K rotary switch encoder switch push button
+F ~
+$ENDCMP
+#
+#End Doc Library
