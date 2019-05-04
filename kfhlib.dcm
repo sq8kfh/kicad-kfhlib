@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP GDT
+D Gas Discharge Tube
+K gas Ddischarge tubes esd electrostatic suppression
+$ENDCMP
+#
 $CMP MIC2981
 D High-Voltage High-Current Source Driver Array
 K driver CMOS PMOS TTL 
