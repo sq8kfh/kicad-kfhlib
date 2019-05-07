@@ -5,6 +5,11 @@ D Gas Discharge Tube
 K gas Ddischarge tubes esd electrostatic suppression
 $ENDCMP
 #
+$CMP JACK_TRS_5PINS
+D audio jack TRS 5 pins
+K audio jack connector TRS
+$ENDCMP
+#
 $CMP MIC2981
 D High-Voltage High-Current Source Driver Array
 K driver CMOS PMOS TTL 
