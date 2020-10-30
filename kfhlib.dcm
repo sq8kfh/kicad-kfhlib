@@ -12,10 +12,16 @@ $ENDCMP
 #
 $CMP MIC2981
 D High-Voltage High-Current Source Driver Array
-K driver CMOS PMOS TTL 
+K driver CMOS PMOS TTL
 $ENDCMP
 #
 $CMP Rotary_Encoder
+D Rotary encoder, dual channel, incremental quadrate outputs, with switch
+K rotary switch encoder switch push button
+F ~
+$ENDCMP
+#
+$CMP Rotary_Encoder_with_Dual_LED_and_Switch
 D Rotary encoder, dual channel, incremental quadrate outputs, with switch
 K rotary switch encoder switch push button
 F ~
